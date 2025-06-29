@@ -35,27 +35,27 @@ Data Alchemist is a cutting-edge web application that revolutionizes resource al
 ### Installation
 
 1. **Clone the repository**
-   \`\`\`bash
+   ```bash
    git clone https://github.com/07Akashh/DataAlchemist.git
    cd DataAlchemist
-   \`\`\`
+   ```
 
 2. **Install dependencies**
-   \`\`\`bash
+   ```bash
    npm install
    # or
    yarn install
-   \`\`\`
+   ```
 
 3. **Start the development server**
-   \`\`\`bash
+   ```bash
    npm run dev
    # or
    yarn dev
-   \`\`\`
+   ```
 
 4. **Open your browser**
-   Navigate to \`http://localhost:3000\` to access the application.
+   Navigate to `http://localhost:3000\` to access the application.
 
 ## 📖 User Guide
 
@@ -182,14 +182,16 @@ Data Alchemist follows a streamlined 5-step process:
 ## 🔧 Configuration
 
 ### Environment Variables
-\`\`\`env
+``` bash
+env 
+
 # Optional: AI service configuration
 NEXT_PUBLIC_AI_ENDPOINT=your-ai-endpoint
 AI_API_KEY=your-api-key
 
 # Optional: Analytics
 NEXT_PUBLIC_ANALYTICS_ID=your-analytics-id
-\`\`\`
+```
 
 ### Customization Options
 - **Theme Configuration**: Custom color schemes and branding
@@ -200,7 +202,7 @@ NEXT_PUBLIC_ANALYTICS_ID=your-analytics-id
 ## 🧪 Testing
 
 ### Running Tests
-\`\`\`bash
+``` bash
 # Unit tests
 npm run test
 
@@ -212,7 +214,7 @@ npm run test:e2e
 
 # Coverage report
 npm run test:coverage
-\`\`\`
+```
 
 ### Test Coverage
 - **Components**: 95%+ coverage
@@ -223,16 +225,17 @@ npm run test:coverage
 ## 📦 Deployment
 
 ### Vercel (Recommended)
-\`\`\`bash
+``` bash
 # Install Vercel CLI
 npm i -g vercel
 
 # Deploy
 vercel --prod
-\`\`\`
+```
 
 ### Docker
-\`\`\`dockerfile
+```bash 
+dockerfile
 FROM node:18-alpine
 WORKDIR /app
 COPY package*.json ./
@@ -241,16 +244,16 @@ COPY . .
 RUN npm run build
 EXPOSE 3000
 CMD ["npm", "start"]
-\`\`\`
+```
 
 ### Manual Deployment
-\`\`\`bash
+```bash
 # Build for production
 npm run build
 
 # Start production server
 npm start
-\`\`\`
+```
 
 
 ### Development Setup
