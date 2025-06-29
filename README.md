@@ -252,9 +252,6 @@ npm run build
 npm start
 \`\`\`
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
 ### Development Setup
 1. Fork the repository
@@ -293,10 +290,8 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 - **Solution**: Refresh the page and ensure stable internet connection
 
 ### Getting Help
-- 📧 Email: support@data-alchemist.com
-- 💬 Discord: [Join our community](https://discord.gg/data-alchemist)
-- 📖 Documentation: [Full docs](https://docs.data-alchemist.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/data-alchemist/issues)
+- 📧 Email: rahulk.softdev@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/07Akashh/DataAlchemist/issues)
 
 ## 📋 Roadmap
 
@@ -344,14 +339,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/data-alchemist&type=Date)](https://star-history.com/#your-username/data-alchemist&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=07Akashh/DataAlchemist&type=Date)](https://star-history.com/#07Akashh/DataAlchemist&Date)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by the Data Alchemist Team**
+**Made with ❤️ by the Rahul(07Akashh)**
 
-[Website](https://data-alchemist.com) • [Documentation](https://docs.data-alchemist.com) • [Community](https://discord.gg/data-alchemist) • [Support](mailto:support@data-alchemist.com)
+[Website](https://elitezone.in) • [Documentation](https://docs.google.com/document/d/1ydXCu3K80EBmjDDSDpciZdakkGe3gEpuWWwOwcwUYUs/edit?tab=t.0) • [Support](mailto:rahulk.softdev@gmail.com)
 
 </div>
